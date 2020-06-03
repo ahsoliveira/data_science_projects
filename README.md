@@ -16,7 +16,7 @@
 ## Projects:
 Veja:
 Editar
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Análise de dados do Airbnb Rio de Janeiro: ** https://bit.ly/3gWhU3B
 
 
 ---
