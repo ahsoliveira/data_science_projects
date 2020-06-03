@@ -14,8 +14,8 @@
 
 
 ## Projects:
-Veja:
-Editar
+look:
+
 * **Análise de dados do Airbnb Rio de Janeiro:**  https://bit.ly/3gWhU3B
 
 
