@@ -17,6 +17,7 @@
 look:
 
 * **Análise de dados do Airbnb Rio de Janeiro:**  https://bit.ly/3gWhU3B
+* **Análisde dos dados de crime no Rio de Janeiro:** https://bit.ly/2zGVxOJ
 
 
 ---
